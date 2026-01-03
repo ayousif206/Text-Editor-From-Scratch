@@ -1,6 +1,6 @@
 # Text Editor From Scratch
 
-Simplistic text editor for Windows only for now. Inspired by Kilo editor which was written in C and written in C++.
+Simplistic text editor for Windows only for now. Inspired by Kilo editor which was originally written in C.
 
 ## Overview
 
